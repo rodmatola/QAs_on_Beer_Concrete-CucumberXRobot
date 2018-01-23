@@ -4,11 +4,10 @@ Library  SeleniumLibrary
 
 *** Variables ***
 ${url}      https://the-internet.herokuapp.com/login
-${browser}  chrome
 
 
 *** Keywords ***
-Dado que estou na tela de login
+Dado que estou na tela de login no ${browser}
     open browser    ${url}   ${browser}
 
 Quando realizo o login
