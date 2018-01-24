@@ -19,5 +19,5 @@ Para rodar digite:
 ```
 robot automacao.robot
 ```
-- Link para a apresentação (em breve)
+- Link para a [apresentação](https://www.slideshare.net/RodrigoMatola/nem-tudo-pepino-cucumber-x-robot-framework-86641457)
 - Link para o vídeo (em breve)
